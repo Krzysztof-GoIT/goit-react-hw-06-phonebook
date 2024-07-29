@@ -1,4 +1,4 @@
-# goit-react-hw-04-phonebook
+# goit-react-hw-06-phonebook
 
 Simple phone number notes app - created for Dev ONLY !
 
@@ -14,6 +14,6 @@ npm run start
 
 ## Features
 
-- Storega contacts on LocalStorage
-- Add/Del contacts
-- Find contact
+- Use REDUX
+- Add/Del presistant contacts
+- Find contact by name
